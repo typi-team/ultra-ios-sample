@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "calling.cameraOff.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

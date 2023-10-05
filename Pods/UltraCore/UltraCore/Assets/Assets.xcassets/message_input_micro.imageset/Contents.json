@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "message_input_micro.pdf",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

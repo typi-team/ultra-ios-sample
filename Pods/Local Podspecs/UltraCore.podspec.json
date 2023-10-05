@@ -1,0 +1,64 @@
+{
+  "name": "UltraCore",
+  "version": "0.1.3",
+  "summary": "A short description of UltraCore.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rakish.shalkar@gmail.com/UltraCore",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rakish.shalkar@gmail.com": "Rakish.Shalkar"
+  },
+  "source": {
+    "git": "git@github.com:typi-team/ultra-ios.git",
+    "tag": "0.1.3"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source_files": "UltraCore/Classes/Sources/**/*",
+  "resource_bundles": {
+    "UltraCore": [
+      "UltraCore/Assets/*.xcassets",
+      "UltraCore/Assets/*.lproj",
+      "UltraCore/Assets/*.pdf",
+      "UltraCore/Assets/Assets"
+    ]
+  },
+  "resources": [
+    "UltraCore/Assets/*.pdf",
+    "UltraCore/*.png",
+    "UltraCore/*"
+  ],
+  "dependencies": {
+    "SnapKit": [
+
+    ],
+    "RxSwift": [
+
+    ],
+    "PodAsset": [
+
+    ],
+    "Protobuf": [
+
+    ],
+    "IGListKit": [
+
+    ],
+    "gRPC-Swift": [
+
+    ],
+    "SDWebImage": [
+
+    ],
+    "RealmSwift": [
+
+    ],
+    "RxDataSources": [
+
+    ]
+  }
+}

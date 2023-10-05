@@ -1,0 +1,6 @@
+framework module UltraCore {
+  umbrella header "UltraCore-umbrella.h"
+
+  export *
+  module * { export * }
+}
